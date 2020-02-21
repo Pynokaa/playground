@@ -1,9 +1,5 @@
 package testwiese;
 
-import java.io.Console;
-
-import sun.management.counter.Variability;
-
 public class test {
 
 	public static void main(String[] args) {
